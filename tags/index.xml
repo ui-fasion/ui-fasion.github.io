@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://ui-fasion.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://ui-fasion.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on UI Fasion</title><link>http://ui-fasion.github.io/tags/</link><description>Recent content in Tags on UI Fasion</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="http://ui-fasion.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Nextjs</title><link>http://ui-fasion.github.io/tags/nextjs/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>http://ui-fasion.github.io/tags/nextjs/</guid><description/></item><item><title>Silicon</title><link>http://ui-fasion.github.io/tags/silicon/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>http://ui-fasion.github.io/tags/silicon/</guid><description/></item><item><title>Software</title><link>http://ui-fasion.github.io/tags/software/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>http://ui-fasion.github.io/tags/software/</guid><description/></item><item><title>Tailwind</title><link>http://ui-fasion.github.io/tags/tailwind/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>http://ui-fasion.github.io/tags/tailwind/</guid><description/></item><item><title>Technology</title><link>http://ui-fasion.github.io/tags/technology/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>http://ui-fasion.github.io/tags/technology/</guid><description/></item></channel></rss>
